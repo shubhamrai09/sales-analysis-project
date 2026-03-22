@@ -30,6 +30,20 @@ Which Channel is contributing maximum to the sales?
 
 - - Dashboard Interaction <a href="https://github.com/shubhamrai09/sales-analysis-project/blob/main/Screenshot%202026-03-22%20144310.png">View Dashboard</a>
 
+## Process
+
+- Verify data for any missing values and anomalies, and sort out the same.
+
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+
+- Created pivot tables according to the questions asked.
+
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1605" height="604" alt="Screenshot 2026-03-22 144310" src="https://github.com/user-attachments/assets/a3fa4e4c-3d53-4179-ae9d-4b1f8ce3f43f" />
+
+
 
 
 
