@@ -28,7 +28,8 @@ Which Channel is contributing maximum to the sales?
 
 - Percentage of Total Orders delivered
 
-- - Dashboard Interaction <a href="https://github.com/shubhamrai09/sales-analysis-project/blob/main/Screenshot%202026-03-22%20144310.png">View Dashboard</a>
+- - Dashboard Interaction
+  - <a href="https://github.com/shubhamrai09/sales-analysis-project/blob/main/Screenshot%202026-03-22%20144310.png">View Dashboard</a>
 
 ## Process
 
